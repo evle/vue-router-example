@@ -1,6 +1,15 @@
 # vue-router-app
 
-> A Vue.js project
+This is a Vue.js project and it shows the basic usage of vue-router
+该应用展示了 **vue-router** 的基本用法，包括 **静态路由** 和 **动态路由**.  
+
+Screenhot
+[![Screenhot.png](https://s26.postimg.org/4wktbs12x/Screen_Shot_2017-09-11_at_4.55.29_AM.png)](https://postimg.org/image/u2lrim2d1/)
+
+The application shows the weather conditions in different cities by dynamic routing.
+该应用通过动态路由显示了不同城市的天气情况
+
+
 
 ## Build Setup
 
@@ -10,12 +19,4 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
